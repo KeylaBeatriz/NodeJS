@@ -1,0 +1,244 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "id": 4,
+      "nome": "Autobiografia"
+    },
+    {
+      "id": 5,
+      "nome": "Biografia"
+    },
+    {
+      "id": 6,
+      "nome": "Conto"
+    },
+    {
+      "id": 7,
+      "nome": "Poesia"
+    },
+    {
+      "id": 8,
+      "nome": "Romance"
+    },
+    {
+      "id": 9,
+      "nome": "Fabula"
+    },
+    {
+      "id": 10,
+      "nome": "Novela"
+    },
+    {
+      "id": 11,
+      "nome": "Canção"
+    },
+    {
+      "id": 12,
+      "nome": "Cientifico"
+    },
+    {
+      "id": 13,
+      "nome": "Autoajuda"
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "titulo": "Dom Quixote 2",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 4
+    },
+    {
+      "titulo": "Eu sou Mala",
+      "autor": "Cristina Lamb",
+      "anoPublicacao": 2013,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 4,
+      "id": 5
+    },
+    {
+      "titulo": "Em busca de mim",
+      "autor": "Viola Davis",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 6
+    },
+    {
+      "titulo": "Em busca de mim",
+      "autor": "Viola Davis",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 7
+    },
+    {
+      "titulo": "Em busca do tempo perdido",
+      "autor": "Marcel Proust",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 8
+    },
+    {
+      "titulo": "O grande Gatsy",
+      "autor": "F. Scott Fitzgerald",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 9
+    },
+    {
+      "titulo": "O grande Gatsy",
+      "autor": "F. Scott Fitzgerald",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 10
+    },
+    {
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Gabriel García Márquez",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 11
+    },
+    {
+      "titulo": "Lolita",
+      "autor": "Vladimir Nabokov",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 12
+    },
+    {
+      "titulo": "Hamblet",
+      "autor": "William Shakespeare",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 13
+    },
+    {
+      "titulo": "Odisseia",
+      "autor": "Omero",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 14
+    },
+    {
+      "titulo": "Odisseia",
+      "autor": "Homero",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 15
+    },
+    {
+      "titulo": "Ao farol",
+      "autor": "Virginia Woolf",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 16
+    },
+    {
+      "titulo": "Ao farol",
+      "autor": "Virginia Woolf",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 17
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 18
+    },
+    {
+      "titulo": "Iliada",
+      "autor": "Homero",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 19
+    },
+    {
+      "titulo": "Amadda",
+      "autor": "Homero",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    }
+  ]
+}
